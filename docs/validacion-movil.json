@@ -1,0 +1,38 @@
+{
+  "environment": "Node.js + DOM simulado + Three.js (sin navegador ni render GPU)",
+  "viewport": [
+    390,
+    844
+  ],
+  "checks": [
+    "modelo completo y SHA256 original",
+    "29 primitivas originales cargadas",
+    "texturas finas y costuras cargadas",
+    "temperaturas independientes 16/28",
+    "limites térmicos 16–28",
+    "pausa circulación",
+    "despiece y selección de capas",
+    "apertura completa del hub",
+    "aislar bomba",
+    "dimensiones double",
+    "conexión posterior double",
+    "dimensiones queen",
+    "conexión posterior queen",
+    "dimensiones king",
+    "conexión posterior king",
+    "dimensiones source",
+    "conexión posterior source",
+    "buffers de geometría originales sin modificación",
+    "desplazamiento independiente del hub",
+    "rotación independiente del hub",
+    "manguera conectada al girar hub",
+    "AR iPhone rel=ar y USDZ",
+    "QR con URL real",
+    "cámaras sin valores inválidos"
+  ],
+  "meshObjects": 555,
+  "trianglesWithExplodedAlternates": 2526492,
+  "sourceSHA256": "f5625fda29566a6a1497844224fc3395f5f93694fc8854d54e2e8b1d5e804df1",
+  "physicalIphoneTest": false,
+  "browserRenderTest": false
+}

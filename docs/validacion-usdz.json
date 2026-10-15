@@ -1,0 +1,78 @@
+[
+  {
+    "file": "cover-source.usdz",
+    "bytes": 19844424,
+    "meshes": 21,
+    "triangles": 732866,
+    "points": 372572,
+    "source_sha256": "71886be5f774e6cbd0a6a25ac7d172871a81e2b8f79987d74f60773a23d60940",
+    "cover_top_dimensions": [
+      1.7999999523162842,
+      0.028286218643188477,
+      2.059999942779541
+    ],
+    "usd_errors": [],
+    "physical_iphone_test": false,
+    "usd_warnings": []
+  },
+  {
+    "file": "cover-double.usdz",
+    "bytes": 19844424,
+    "meshes": 21,
+    "triangles": 732866,
+    "points": 372572,
+    "source_sha256": "71886be5f774e6cbd0a6a25ac7d172871a81e2b8f79987d74f60773a23d60940",
+    "cover_top_dimensions": [
+      1.3999999629126654,
+      0.028286218643188477,
+      1.8999999472238485
+    ],
+    "usd_errors": [],
+    "physical_iphone_test": false,
+    "usd_warnings": []
+  },
+  {
+    "file": "cover-queen.usdz",
+    "bytes": 19844424,
+    "meshes": 21,
+    "triangles": 732866,
+    "points": 372572,
+    "source_sha256": "71886be5f774e6cbd0a6a25ac7d172871a81e2b8f79987d74f60773a23d60940",
+    "cover_top_dimensions": [
+      1.599999957614475,
+      0.028286218643188477,
+      1.9999999444461563
+    ],
+    "usd_errors": [],
+    "physical_iphone_test": false,
+    "usd_warnings": []
+  },
+  {
+    "file": "cover-king.usdz",
+    "bytes": 19844424,
+    "meshes": 21,
+    "triangles": 732866,
+    "points": 372572,
+    "source_sha256": "71886be5f774e6cbd0a6a25ac7d172871a81e2b8f79987d74f60773a23d60940",
+    "cover_top_dimensions": [
+      1.9999999470180936,
+      0.028286218643188477,
+      1.9999999444461563
+    ],
+    "usd_errors": [],
+    "physical_iphone_test": false,
+    "usd_warnings": []
+  },
+  {
+    "file": "hub.usdz",
+    "bytes": 1092936,
+    "meshes": 30,
+    "triangles": 71030,
+    "points": 37737,
+    "source_sha256": "af70c662dbf65e2b5853dfc4e7c1dc532ba2637a03c9cb097a93cd4ed536836c",
+    "cover_top_dimensions": null,
+    "usd_errors": [],
+    "physical_iphone_test": false,
+    "usd_warnings": []
+  }
+]

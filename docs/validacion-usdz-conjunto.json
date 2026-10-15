@@ -1,0 +1,26 @@
+[
+  {
+    "file": "set-source.usdz",
+    "bytes": 22041391,
+    "validation_messages": [],
+    "physical_iphone_test": false
+  },
+  {
+    "file": "set-double.usdz",
+    "bytes": 22041391,
+    "validation_messages": [],
+    "physical_iphone_test": false
+  },
+  {
+    "file": "set-queen.usdz",
+    "bytes": 22041391,
+    "validation_messages": [],
+    "physical_iphone_test": false
+  },
+  {
+    "file": "set-king.usdz",
+    "bytes": 22041391,
+    "validation_messages": [],
+    "physical_iphone_test": false
+  }
+]

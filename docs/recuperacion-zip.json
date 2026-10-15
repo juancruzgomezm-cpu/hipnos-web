@@ -1,0 +1,620 @@
+[
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Editor/BuildProject.cs",
+    "bytes": 6430,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Editor/BuildProject.cs.meta",
+    "bytes": 243,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Editor/DetailMapImport.cs",
+    "bytes": 566,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Editor/DetailMapImport.cs.meta",
+    "bytes": 187,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Editor/IOSPermissions.cs",
+    "bytes": 996,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Editor/IOSPermissions.cs.meta",
+    "bytes": 243,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Geometry/Hipnos.AR.Geometry.asmdef",
+    "bytes": 92,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Geometry/Hipnos.AR.Geometry.asmdef.meta",
+    "bytes": 60,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Geometry/MattressCalibration.cs",
+    "bytes": 3057,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Geometry/MattressCalibration.cs.meta",
+    "bytes": 243,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Resources/DetailMaps/backing_normal.png",
+    "bytes": 777030,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Resources/DetailMaps/backing_normal.png.meta",
+    "bytes": 60,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Resources/DetailMaps/backing_surface.png",
+    "bytes": 1401355,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Resources/DetailMaps/backing_surface.png.meta",
+    "bytes": 60,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Resources/DetailMaps/cotton_normal.png",
+    "bytes": 1023307,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Resources/DetailMaps/cotton_normal.png.meta",
+    "bytes": 60,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Resources/DetailMaps/cotton_surface.png",
+    "bytes": 1364403,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Resources/DetailMaps/cotton_surface.png.meta",
+    "bytes": 60,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Resources/DetailMaps/cover_normal.png",
+    "bytes": 4560395,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Resources/DetailMaps/cover_normal.png.meta",
+    "bytes": 60,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Resources/DetailMaps/cover_surface.png",
+    "bytes": 5040378,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Resources/DetailMaps/cover_surface.png.meta",
+    "bytes": 60,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Resources/DetailMaps/embroidery_normal.png",
+    "bytes": 40251,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Resources/DetailMaps/embroidery_normal.png.meta",
+    "bytes": 60,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Resources/DetailMaps/embroidery_surface.png",
+    "bytes": 26316,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Resources/DetailMaps/embroidery_surface.png.meta",
+    "bytes": 60,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Resources/DetailMaps/hub_normal.png",
+    "bytes": 190607,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Resources/DetailMaps/hub_normal.png.meta",
+    "bytes": 60,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Resources/DetailMaps/hub_surface.png",
+    "bytes": 265578,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Resources/DetailMaps/hub_surface.png.meta",
+    "bytes": 60,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Resources/DetailMaps/linen_normal.png",
+    "bytes": 947000,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Resources/DetailMaps/linen_normal.png.meta",
+    "bytes": 60,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Resources/DetailMaps/linen_surface.png",
+    "bytes": 1274820,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Resources/DetailMaps/linen_surface.png.meta",
+    "bytes": 60,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Resources/DetailMaps/metal_normal.png",
+    "bytes": 31098,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Resources/DetailMaps/metal_normal.png.meta",
+    "bytes": 60,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Resources/DetailMaps/metal_surface.png",
+    "bytes": 91503,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Resources/DetailMaps/metal_surface.png.meta",
+    "bytes": 60,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Resources/DetailMaps/pillow_tension.png",
+    "bytes": 97614,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Resources/DetailMaps/pillow_tension.png.meta",
+    "bytes": 60,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Resources/DetailMaps/pillow_tension_normal.png",
+    "bytes": 179883,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Resources/DetailMaps/pillow_tension_normal.png.meta",
+    "bytes": 60,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Resources/DetailMaps/polymer_normal.png",
+    "bytes": 39990,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Resources/DetailMaps/polymer_normal.png.meta",
+    "bytes": 60,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Resources/DetailMaps/polymer_surface.png",
+    "bytes": 77086,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Resources/DetailMaps/polymer_surface.png.meta",
+    "bytes": 60,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Resources/DetailMaps/wadding_normal.png",
+    "bytes": 1979762,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Resources/DetailMaps/wadding_normal.png.meta",
+    "bytes": 60,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Resources/DetailMaps/wadding_surface.png",
+    "bytes": 853033,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Resources/DetailMaps/wadding_surface.png.meta",
+    "bytes": 60,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Resources/Fonts/Raleway-Light.ttf",
+    "bytes": 49552,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Resources/Fonts/Raleway-Light.ttf.meta",
+    "bytes": 60,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Resources/Fonts/Raleway-Regular.ttf",
+    "bytes": 49540,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Resources/Fonts/Raleway-Regular.ttf.meta",
+    "bytes": 60,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Scenes/HipnosAR.unity",
+    "bytes": 980,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Scenes/HipnosAR.unity.meta",
+    "bytes": 60,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Scripts/ARPhotoCapture.cs",
+    "bytes": 4138,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Scripts/ARPhotoCapture.cs.meta",
+    "bytes": 243,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Scripts/AmbientLighting.cs",
+    "bytes": 1134,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Scripts/AmbientLighting.cs.meta",
+    "bytes": 243,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Scripts/Bootstrap.cs",
+    "bytes": 5605,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Scripts/Bootstrap.cs.meta",
+    "bytes": 243,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Scripts/ContactShadows.cs",
+    "bytes": 850,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Scripts/ContactShadows.cs.meta",
+    "bytes": 243,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Scripts/HipnosApplication.cs",
+    "bytes": 16687,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Scripts/HipnosApplication.cs.meta",
+    "bytes": 243,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Scripts/HipnosUI.cs",
+    "bytes": 13072,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Scripts/HipnosUI.cs.meta",
+    "bytes": 243,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Scripts/HydraulicLinks.cs",
+    "bytes": 10365,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Scripts/HydraulicLinks.cs.meta",
+    "bytes": 243,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Scripts/ModelAssets.cs",
+    "bytes": 7414,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Scripts/ModelAssets.cs.meta",
+    "bytes": 243,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Scripts/SpatialSession.cs",
+    "bytes": 4539,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Scripts/SpatialSession.cs.meta",
+    "bytes": 243,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Scripts/ThermalOverlay.cs",
+    "bytes": 1670,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Scripts/ThermalOverlay.cs.meta",
+    "bytes": 243,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Shaders/ShadowCatcher.shader",
+    "bytes": 847,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Shaders/ShadowCatcher.shader.meta",
+    "bytes": 60,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Shaders/Thermal.shader",
+    "bytes": 856,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Shaders/Thermal.shader.meta",
+    "bytes": 60,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Shaders/Water.shader",
+    "bytes": 769,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Shaders/Water.shader.meta",
+    "bytes": 60,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Tests/Editor/CalibrationTests.cs",
+    "bytes": 1906,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Tests/Editor/CalibrationTests.cs.meta",
+    "bytes": 187,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Tests/Editor/Hipnos.AR.Tests.asmdef",
+    "bytes": 205,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Hipnos/Tests/Editor/Hipnos.AR.Tests.asmdef.meta",
+    "bytes": 60,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Plugins/Android/HipnosNative.androidlib/AndroidManifest.xml",
+    "bytes": 736,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Plugins/Android/HipnosNative.androidlib/AndroidManifest.xml.meta",
+    "bytes": 60,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Plugins/Android/HipnosNative.androidlib/build.gradle",
+    "bytes": 395,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Plugins/Android/HipnosNative.androidlib/build.gradle.meta",
+    "bytes": 60,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Plugins/Android/HipnosNative.androidlib/consumer-rules.pro",
+    "bytes": 46,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Plugins/Android/HipnosNative.androidlib/consumer-rules.pro.meta",
+    "bytes": 60,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Plugins/Android/HipnosNative.androidlib/src/main/java/com/hipnos/nativebridge/HipnosMedia.java",
+    "bytes": 3517,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Plugins/Android/HipnosNative.androidlib/src/main/java/com/hipnos/nativebridge/HipnosMedia.java.meta",
+    "bytes": 60,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Plugins/Android/HipnosNative.androidlib/src/main/java/com/hipnos/nativebridge/HipnosShareProvider.java",
+    "bytes": 2046,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Plugins/Android/HipnosNative.androidlib/src/main/java/com/hipnos/nativebridge/HipnosShareProvider.java.meta",
+    "bytes": 60,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Plugins/iOS/HipnosMedia.mm",
+    "bytes": 1703,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/Plugins/iOS/HipnosMedia.mm.meta",
+    "bytes": 60,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/StreamingAssets/Hipnos/Models/Cover_Source.glb",
+    "bytes": 28793492,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/StreamingAssets/Hipnos/Models/Cover_Source.glb.meta",
+    "bytes": 60,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/StreamingAssets/Hipnos/Models/Cover_Source.materials.json",
+    "bytes": 6094,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/StreamingAssets/Hipnos/Models/Cover_Source.materials.json.meta",
+    "bytes": 60,
+    "crc_ok": true,
+    "matches_working": true
+  },
+  {
+    "name": "Hipnos_AR_Unity/Assets/StreamingAssets/Hipnos/Models/Hub_Source.glb",
+    "error": "Error -5 while decompressing data: incomplete or truncated stream",
+    "expected_compressed_bytes": 0,
+    "remaining": 1628140
+  }
+]

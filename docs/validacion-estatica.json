@@ -1,0 +1,21 @@
+{
+  "checks": [
+    "IDs HTML únicos",
+    "Vínculos HTML existentes",
+    "Manifest PWA con rutas relativas",
+    "Lista offline completa",
+    "GLB recompuesto idéntico al original",
+    "9 USDZ sin compresión y con alineación de 64 bytes",
+    "USD y materiales sin errores en OpenUSD",
+    "Todos los archivos debajo de 25 MiB",
+    "Menos de 100 archivos para carga web en GitHub",
+    "Reglas para celular, paisaje y áreas seguras presentes"
+  ],
+  "files": 84,
+  "max_file_bytes": 22041391,
+  "total_bytes": 225644181,
+  "errors": [],
+  "browser_render_test": false,
+  "physical_iphone_test": false,
+  "notes": "La comprobación responsive verifica código y cálculos de cámara; no es una inspección visual de navegador."
+}

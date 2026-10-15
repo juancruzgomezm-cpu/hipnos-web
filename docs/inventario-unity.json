@@ -1,0 +1,612 @@
+[
+  {
+    "path": "README.md",
+    "size": 6851,
+    "sha256": "0bcfc15d2df1bf2c3241be0e5b882a1d8e8af2b70ddc3317e19a14938a60f7c7"
+  },
+  {
+    "path": "Packages/manifest.json",
+    "size": 688,
+    "sha256": "c5ddbe7735f7a3f2ef4d4fe12bdd1848d0f3a7b9827c96fb453a8b1d34c722bf"
+  },
+  {
+    "path": "ProjectSettings/ProjectVersion.txt",
+    "size": 85,
+    "sha256": "f55357417191efac9dcba2068adf2a05ab76ec0de30eae3402c257669e98b75e"
+  },
+  {
+    "path": "ProjectSettings/ProjectSettings.asset",
+    "size": 231,
+    "sha256": "ad4f8ffe8dc041ad127b6af41114e05f3e72e0ff593599ff1a42037498dad1b7"
+  },
+  {
+    "path": "Tools/prepare_models.py",
+    "size": 15342,
+    "sha256": "e1204831fed286d0f15b1b65830faefd5340f11791265a3985de418b7d9619c7"
+  },
+  {
+    "path": "Tools/validate_assets.py",
+    "size": 4673,
+    "sha256": "b68c56323946042ed34d53f1676d69f93bfa75a6d79938a8f589cba8d3a3293e"
+  },
+  {
+    "path": "Tools/requirements.txt",
+    "size": 12,
+    "sha256": "4ddc9fac6812009f664a46c80b8fd573c9f2bcc4ac391cca9531ca94cd432e63"
+  },
+  {
+    "path": "Documentation/MODELOS.md",
+    "size": 3864,
+    "sha256": "d9bb850fa31f217ffbde7968de6be6496cfb7d918eddb27ed798b23be60cfba2"
+  },
+  {
+    "path": "Documentation/PRUEBAS_EN_DISPOSITIVO.md",
+    "size": 2907,
+    "sha256": "a5e6a1206f9530c677ca46a8b0ff23474e36f4f03a33e3839b56a91c94d5c6a6"
+  },
+  {
+    "path": "Documentation/validation.json",
+    "size": 828,
+    "sha256": "32b8ba15fa84be76131456f011015ae62de21142281be0c21b5f09ba9c69bb16"
+  },
+  {
+    "path": "Documentation/Three_js_MIT.txt",
+    "size": 1081,
+    "sha256": "4c40a1ef62450b857c3b2aaf294936304cd552d965fbcd9d32d4c5bcf4ba4454"
+  },
+  {
+    "path": "Documentation/REFERENCIAS.md",
+    "size": 1493,
+    "sha256": "53089f91abf510c67afa6696094068838cbd9f3b983eba76385a1b87346fed35"
+  },
+  {
+    "path": "Documentation/model_conversion.json",
+    "size": 162123,
+    "sha256": "1ff35b4e3e29dff78dcd2c23b5e2c00de76939d19bf88e18ec846f51d8d76222"
+  },
+  {
+    "path": "Documentation/Raleway_OFL.txt",
+    "size": 4530,
+    "sha256": "7bda8fcb7cfe5a162bb615e16bf4f94c7ef78de6f82ee44d219bf24a013b7ba2"
+  },
+  {
+    "path": "Assets/Plugins/iOS/HipnosMedia.mm",
+    "size": 1703,
+    "sha256": "f2020addb362787e506a9d7b1e24d09eb5e5775317c872e1aea8a109d3609fdf"
+  },
+  {
+    "path": "Assets/Plugins/iOS/HipnosMedia.mm.meta",
+    "size": 60,
+    "sha256": "44bebaebb7cc477b04d28550fac1e603f53500b029e240f4d8b7a320b4841d8b"
+  },
+  {
+    "path": "Assets/Plugins/Android/HipnosNative.androidlib/AndroidManifest.xml.meta",
+    "size": 60,
+    "sha256": "4c851bd47e24190faf9283447e15ab1a54f0d98e89cce270d6295bea1742f53d"
+  },
+  {
+    "path": "Assets/Plugins/Android/HipnosNative.androidlib/AndroidManifest.xml",
+    "size": 736,
+    "sha256": "b24d4d6accfc7f32f9eee222b2589b11cde87fb6652fe4f384bad574cfaf3eee"
+  },
+  {
+    "path": "Assets/Plugins/Android/HipnosNative.androidlib/build.gradle",
+    "size": 395,
+    "sha256": "4a6d8c0daffaaed2fa47c4e66c006c49d1c333809ff29a737d06671dd4f0ae35"
+  },
+  {
+    "path": "Assets/Plugins/Android/HipnosNative.androidlib/consumer-rules.pro",
+    "size": 46,
+    "sha256": "c8a532ac2f93b8228ea5b87f258d9932edaba029f57a3c20a13ed96a9090fb38"
+  },
+  {
+    "path": "Assets/Plugins/Android/HipnosNative.androidlib/consumer-rules.pro.meta",
+    "size": 60,
+    "sha256": "252e8e148980243bdb3df01e9df61c4d0814bdac486cb81470cc57908bff29b8"
+  },
+  {
+    "path": "Assets/Plugins/Android/HipnosNative.androidlib/build.gradle.meta",
+    "size": 60,
+    "sha256": "8d33a253f6a2f6e5e1e5bd8880d5f2a9b0f08e525fb310fd099624cfcbc53611"
+  },
+  {
+    "path": "Assets/Plugins/Android/HipnosNative.androidlib/src/main/java/com/hipnos/nativebridge/HipnosShareProvider.java",
+    "size": 2046,
+    "sha256": "db10b82f662c3bcd02c5c68d83878212df389a8dbdf29eb0775603f9170acd50"
+  },
+  {
+    "path": "Assets/Plugins/Android/HipnosNative.androidlib/src/main/java/com/hipnos/nativebridge/HipnosMedia.java",
+    "size": 3517,
+    "sha256": "f946ea42d3d72132b02c6176a4aa9e42f2526297529c9b29aef5983d89e97208"
+  },
+  {
+    "path": "Assets/Plugins/Android/HipnosNative.androidlib/src/main/java/com/hipnos/nativebridge/HipnosShareProvider.java.meta",
+    "size": 60,
+    "sha256": "cae420c36e35d058f525834400e0db94685a097b08a64486bcb6ba6983157e3c"
+  },
+  {
+    "path": "Assets/Plugins/Android/HipnosNative.androidlib/src/main/java/com/hipnos/nativebridge/HipnosMedia.java.meta",
+    "size": 60,
+    "sha256": "e0b9bfedcc9d27758fed8216ac99d1d5026aa3281b26b9cf86de2eda9f66bde5"
+  },
+  {
+    "path": "Assets/Hipnos/Shaders/Thermal.shader",
+    "size": 856,
+    "sha256": "e5acffe81defd0b5dbb47cf0d88699965f5a7878d7ead3afb904e453b186dc12"
+  },
+  {
+    "path": "Assets/Hipnos/Shaders/ShadowCatcher.shader",
+    "size": 847,
+    "sha256": "e93403d535fa6bcfb50b63b78efa1d862cc5790261ded800fe49b3004ef6af68"
+  },
+  {
+    "path": "Assets/Hipnos/Shaders/ShadowCatcher.shader.meta",
+    "size": 60,
+    "sha256": "e2ceb12c805dfdeb04581c2db56c6e106606cca97583c4160880347d09f4d432"
+  },
+  {
+    "path": "Assets/Hipnos/Shaders/Water.shader",
+    "size": 769,
+    "sha256": "0d6bd93de57ed3bf274ff11c31e7c0952b866b9ef693610e952f90717a534541"
+  },
+  {
+    "path": "Assets/Hipnos/Shaders/Thermal.shader.meta",
+    "size": 60,
+    "sha256": "8473b95c82a4a92bdd909fbf4c04387b64bda35f9adfb8c5fd82292d261eef47"
+  },
+  {
+    "path": "Assets/Hipnos/Shaders/Water.shader.meta",
+    "size": 60,
+    "sha256": "8fc09992406a7fc1768f0abf4fc3a480aced8fdb6824f42891fb3aa969eac60e"
+  },
+  {
+    "path": "Assets/Hipnos/Geometry/Hipnos.AR.Geometry.asmdef",
+    "size": 92,
+    "sha256": "7e85a832158f73a6782bff6148e9ea278a5e3e0a1a5d43f5306be5c3c8351e7a"
+  },
+  {
+    "path": "Assets/Hipnos/Geometry/Hipnos.AR.Geometry.asmdef.meta",
+    "size": 60,
+    "sha256": "728ff0ce15cd438c8f0e9da91795418829b60f5d0df31122f9134e263386fd69"
+  },
+  {
+    "path": "Assets/Hipnos/Geometry/MattressCalibration.cs",
+    "size": 3057,
+    "sha256": "a62a48462ddae7fbc938c0376e6c147b51b866714c0049974eaf234a06bc2b5c"
+  },
+  {
+    "path": "Assets/Hipnos/Geometry/MattressCalibration.cs.meta",
+    "size": 243,
+    "sha256": "85d0d86d35bc6150472d2421c914b73f3157014ed1b558e65627f003da22df85"
+  },
+  {
+    "path": "Assets/Hipnos/Scripts/ARPhotoCapture.cs",
+    "size": 4138,
+    "sha256": "4d9137a138b87d8c20729227820b00f0bd12b0abc073576e0b2bb5ad3219fb03"
+  },
+  {
+    "path": "Assets/Hipnos/Scripts/ModelAssets.cs",
+    "size": 7414,
+    "sha256": "0b50821f40d7e1f3fcf84c41661d8f99e92363949f7fd2c73f8359a1d14fc5f6"
+  },
+  {
+    "path": "Assets/Hipnos/Scripts/ThermalOverlay.cs",
+    "size": 1670,
+    "sha256": "e9d5613ccf1d4ad2d6cf3e1751841e3d29b20b1071c5e8d5550e8c5e4b9b3968"
+  },
+  {
+    "path": "Assets/Hipnos/Scripts/AmbientLighting.cs.meta",
+    "size": 243,
+    "sha256": "439efde314672cef4aed483ea4a81cd8b50c32e7be41592d4b5bec4cbcba2f2e"
+  },
+  {
+    "path": "Assets/Hipnos/Scripts/ContactShadows.cs",
+    "size": 850,
+    "sha256": "88bd9f9c833e7dd8b4d78a89f757db3be15f0f80f1563f58398def4ed4426969"
+  },
+  {
+    "path": "Assets/Hipnos/Scripts/HipnosApplication.cs.meta",
+    "size": 243,
+    "sha256": "5755ad2daf75c40d99b92d65d3c399d0584844dacf96d1ef9034ef2eedbb09a1"
+  },
+  {
+    "path": "Assets/Hipnos/Scripts/ARPhotoCapture.cs.meta",
+    "size": 243,
+    "sha256": "58eb750c2a6d252a0ef306697d609f1b1ca885873f6c7975f4ad1fb661d1170d"
+  },
+  {
+    "path": "Assets/Hipnos/Scripts/HydraulicLinks.cs",
+    "size": 10365,
+    "sha256": "aef880f34de744a83bb004451e237e413f542cd7c37627c0bd2783042687e7a7"
+  },
+  {
+    "path": "Assets/Hipnos/Scripts/SpatialSession.cs",
+    "size": 4539,
+    "sha256": "4edcec3931009dc6ebdd761e7ec54ab1225aefed530a508cb2730049bf5d7375"
+  },
+  {
+    "path": "Assets/Hipnos/Scripts/ContactShadows.cs.meta",
+    "size": 243,
+    "sha256": "959ade3558b439db5bb5df6e9d71c0e8de14c207c0e126dd4a382a0d21912c0b"
+  },
+  {
+    "path": "Assets/Hipnos/Scripts/HydraulicLinks.cs.meta",
+    "size": 243,
+    "sha256": "7e913155f1f296c9919ce7ab50bd0a6c68e4c3be78df528e6dbb5b4d28543473"
+  },
+  {
+    "path": "Assets/Hipnos/Scripts/SpatialSession.cs.meta",
+    "size": 243,
+    "sha256": "8d2f0fee7240717a4f5810eda3edf92e240658df4489ce0dd01c1934df6d302d"
+  },
+  {
+    "path": "Assets/Hipnos/Scripts/Bootstrap.cs",
+    "size": 5605,
+    "sha256": "647110a8c6960f64dfa079d5a90ee3291721eb3f2d3c430371873c8d50c824ab"
+  },
+  {
+    "path": "Assets/Hipnos/Scripts/HipnosUI.cs",
+    "size": 13072,
+    "sha256": "61ed499085a5e2868b2e5123c8f6e4c261c5564212eda73377bb2a1123984fbf"
+  },
+  {
+    "path": "Assets/Hipnos/Scripts/ThermalOverlay.cs.meta",
+    "size": 243,
+    "sha256": "e49b0cd595f3eedb593bcffe514eb7321490112f1fec0c0e30a082f66f8470b5"
+  },
+  {
+    "path": "Assets/Hipnos/Scripts/ModelAssets.cs.meta",
+    "size": 243,
+    "sha256": "d0408eba10ebb7f9a068d0413ba2210dea9ed0aa267c8330f093986415669075"
+  },
+  {
+    "path": "Assets/Hipnos/Scripts/HipnosApplication.cs",
+    "size": 16687,
+    "sha256": "99750aa6bc272814e7d1f21a0d8d917db64dc29788fbeb883baf00d2b5b49107"
+  },
+  {
+    "path": "Assets/Hipnos/Scripts/Bootstrap.cs.meta",
+    "size": 243,
+    "sha256": "8ac61f8528aa0d508b13b5b69253c9606d45457f7bdfa315b664b0a7f2425deb"
+  },
+  {
+    "path": "Assets/Hipnos/Scripts/HipnosUI.cs.meta",
+    "size": 243,
+    "sha256": "4d3e74a4bb472b67cfea4e9745ef524086dad7a83267dbc663b2f3351eb6114f"
+  },
+  {
+    "path": "Assets/Hipnos/Scripts/AmbientLighting.cs",
+    "size": 1134,
+    "sha256": "854c8126aec4f2dea4365aa0491625f4eb972aa338bc45fe53cc07719099c6d7"
+  },
+  {
+    "path": "Assets/Hipnos/Editor/DetailMapImport.cs",
+    "size": 566,
+    "sha256": "2d88c5686b3b87d6d87aecf87d08e76de5a64a50c258fef10d520ea2f8b596bd"
+  },
+  {
+    "path": "Assets/Hipnos/Editor/BuildProject.cs",
+    "size": 6430,
+    "sha256": "ef819e9a107908d046cc04aec7c74dbd837f6e90f049a009daa7897c24f04797"
+  },
+  {
+    "path": "Assets/Hipnos/Editor/IOSPermissions.cs",
+    "size": 996,
+    "sha256": "1c90efb19636f2709a141232fcd63b69f9f26fcb1fe5cd86aaa88aa8e8114bf1"
+  },
+  {
+    "path": "Assets/Hipnos/Editor/IOSPermissions.cs.meta",
+    "size": 243,
+    "sha256": "aa1d95ef4026e045a8e3102b6e39ccfa0fdf6274387e374929af263e19a36a08"
+  },
+  {
+    "path": "Assets/Hipnos/Editor/BuildProject.cs.meta",
+    "size": 243,
+    "sha256": "6ecbab9e62abbf457d45612c72fdaf79a9f713169cee5866d48b48f9f0bed88e"
+  },
+  {
+    "path": "Assets/Hipnos/Editor/DetailMapImport.cs.meta",
+    "size": 187,
+    "sha256": "c9159eb344e220d7126b42eb75d18a882d70fbd21a480bd17086ccdac537e5d2"
+  },
+  {
+    "path": "Assets/Hipnos/Scenes/HipnosAR.unity",
+    "size": 980,
+    "sha256": "838758276bc3b03baf540e65eebd0d33e14ccb4b1d60708b30c81076bd3a088b"
+  },
+  {
+    "path": "Assets/Hipnos/Scenes/HipnosAR.unity.meta",
+    "size": 60,
+    "sha256": "f5c3ad1da605d811f547eceafee8d7dfa446a61c7c43b3e9980724c50e0a23fd"
+  },
+  {
+    "path": "Assets/Hipnos/Resources/Fonts/Raleway-Light.ttf",
+    "size": 49552,
+    "sha256": "2232f581f4e99caf17fc0c9b2fd186213e94865a64a81b6fe8ed805ccb59e802"
+  },
+  {
+    "path": "Assets/Hipnos/Resources/Fonts/Raleway-Regular.ttf",
+    "size": 49540,
+    "sha256": "bf2e73216258ad3162f386e67e212397c674c4dc324ef3364e630bac22b85de5"
+  },
+  {
+    "path": "Assets/Hipnos/Resources/Fonts/Raleway-Regular.ttf.meta",
+    "size": 60,
+    "sha256": "30aec364e37099192d6083a5a3705e9dd48293f06a8990928e4590d25a0d0dfe"
+  },
+  {
+    "path": "Assets/Hipnos/Resources/Fonts/Raleway-Light.ttf.meta",
+    "size": 60,
+    "sha256": "b6f2981a1cf4374e8ac82228c17af2192d2771f1bc6fc25f86896f04c936f912"
+  },
+  {
+    "path": "Assets/Hipnos/Resources/DetailMaps/linen_surface.png",
+    "size": 1274820,
+    "sha256": "65902d301c90b205038c14a11efcd2315eb0dd79ffe9cf4ce3c5c46834217f29"
+  },
+  {
+    "path": "Assets/Hipnos/Resources/DetailMaps/embroidery_normal.png",
+    "size": 40251,
+    "sha256": "b7f4250735beaa370c7b1d087fed0565ddcb118d95cf734965143c881176a8ec"
+  },
+  {
+    "path": "Assets/Hipnos/Resources/DetailMaps/backing_surface.png.meta",
+    "size": 60,
+    "sha256": "34310ef6f5e5a32c06e2ae722ac44e571a24d1e51e30971c194077b28594bcc9"
+  },
+  {
+    "path": "Assets/Hipnos/Resources/DetailMaps/linen_normal.png",
+    "size": 947000,
+    "sha256": "5977af6cf273a0ce07f852d670ac600c83696d91d4bc097aecbb994de6e52d92"
+  },
+  {
+    "path": "Assets/Hipnos/Resources/DetailMaps/pillow_tension.png",
+    "size": 97614,
+    "sha256": "2a7845424d38376df417b66f099ac424dae9ee1fdd74feb91bc0edd5f07d9055"
+  },
+  {
+    "path": "Assets/Hipnos/Resources/DetailMaps/metal_surface.png",
+    "size": 91503,
+    "sha256": "ba4a2688eb61eae915fb0fb2218faa85f17269e21ae7107f5ef5839dffd5ddb1"
+  },
+  {
+    "path": "Assets/Hipnos/Resources/DetailMaps/linen_normal.png.meta",
+    "size": 60,
+    "sha256": "54ae3464e92d5d9f5ef05c7a4bffd5bf5ca07c5d8aec4ddbaa1723cd4f2ef1df"
+  },
+  {
+    "path": "Assets/Hipnos/Resources/DetailMaps/wadding_normal.png.meta",
+    "size": 60,
+    "sha256": "275c25548809d3d927131574c0bb6fae0d408ab9b59284ec51a70dd0fefed1c8"
+  },
+  {
+    "path": "Assets/Hipnos/Resources/DetailMaps/wadding_surface.png.meta",
+    "size": 60,
+    "sha256": "6b88951bd546b84da695f5e13fc5fc45ffd0307c7ce3377c5d803206c5cca894"
+  },
+  {
+    "path": "Assets/Hipnos/Resources/DetailMaps/pillow_tension_normal.png.meta",
+    "size": 60,
+    "sha256": "522d297fd6a500f5865e3ec2b66fbf953dfaf01df7e716b4642eb3f4364dc7de"
+  },
+  {
+    "path": "Assets/Hipnos/Resources/DetailMaps/cover_surface.png.meta",
+    "size": 60,
+    "sha256": "8625dfe7da89fa0b2d91847fb2272d7cbbab39d5d037be213093b1892262f6b9"
+  },
+  {
+    "path": "Assets/Hipnos/Resources/DetailMaps/cotton_surface.png",
+    "size": 1364403,
+    "sha256": "40da476334468546086a95b0da8f8f88f39a7af63fb0d809c64803875068693b"
+  },
+  {
+    "path": "Assets/Hipnos/Resources/DetailMaps/backing_normal.png.meta",
+    "size": 60,
+    "sha256": "0e48ee2340eda851ac31f3964d75515c3ec8f723bd1403da12f804c85b206742"
+  },
+  {
+    "path": "Assets/Hipnos/Resources/DetailMaps/embroidery_surface.png.meta",
+    "size": 60,
+    "sha256": "ff265a250128db70e4c001262fcf879ddf31361a1d8eb34ca1a6b333075970a6"
+  },
+  {
+    "path": "Assets/Hipnos/Resources/DetailMaps/embroidery_normal.png.meta",
+    "size": 60,
+    "sha256": "b0be0f10e8b6f557c6e93e85009e9cfca624c5f7ec966bc099f5ae8272f3193e"
+  },
+  {
+    "path": "Assets/Hipnos/Resources/DetailMaps/pillow_tension.png.meta",
+    "size": 60,
+    "sha256": "c4cf5637a6ea1ac4080ee46de40b5e2c07152a609bb7f6dafb722d701facc6d8"
+  },
+  {
+    "path": "Assets/Hipnos/Resources/DetailMaps/backing_surface.png",
+    "size": 1401355,
+    "sha256": "b4c7e04b30abbd26abbf42a6f0974db9c4a50f2ffb1f6bc5c9e9e746aa9082da"
+  },
+  {
+    "path": "Assets/Hipnos/Resources/DetailMaps/cover_normal.png",
+    "size": 4560395,
+    "sha256": "c830eeb035b161418834d8af78c4d10b315a84975d2b5427daa4238f9aa142e7"
+  },
+  {
+    "path": "Assets/Hipnos/Resources/DetailMaps/polymer_surface.png.meta",
+    "size": 60,
+    "sha256": "121d9f023eddde9f0aecea9ec15ae10bf0393a019ae9eda095766e662487bcc8"
+  },
+  {
+    "path": "Assets/Hipnos/Resources/DetailMaps/metal_surface.png.meta",
+    "size": 60,
+    "sha256": "ac7ab5fe0cb60be70debadc72e16b6b3f0b4f6f4a3313af439beaa70ec3ca80e"
+  },
+  {
+    "path": "Assets/Hipnos/Resources/DetailMaps/cotton_normal.png.meta",
+    "size": 60,
+    "sha256": "5955d7f1c397db1b3674948b2d775d7cab4936a6141856d5edf729599d0de600"
+  },
+  {
+    "path": "Assets/Hipnos/Resources/DetailMaps/cotton_normal.png",
+    "size": 1023307,
+    "sha256": "48ad6da0e7824a976d417e7684031a773793434043bf24ef65bc9655c926afff"
+  },
+  {
+    "path": "Assets/Hipnos/Resources/DetailMaps/hub_normal.png.meta",
+    "size": 60,
+    "sha256": "5287ee38d5a65d0a9ebca54504dd8c495543b13bb912dff19d3aacc7a15bef24"
+  },
+  {
+    "path": "Assets/Hipnos/Resources/DetailMaps/metal_normal.png.meta",
+    "size": 60,
+    "sha256": "bafaf4bd53adada86807e485848e7aec1addb73698917af22bd9c4bd38f583bd"
+  },
+  {
+    "path": "Assets/Hipnos/Resources/DetailMaps/wadding_normal.png",
+    "size": 1979762,
+    "sha256": "3027abd9b55ec2c8926275a8404108c739688d6939018224d362169818dc8a4a"
+  },
+  {
+    "path": "Assets/Hipnos/Resources/DetailMaps/cover_surface.png",
+    "size": 5040378,
+    "sha256": "40a87aa902438e1e7963e76304a83aa1ad3cca6681a96aed44811d28b27b09d4"
+  },
+  {
+    "path": "Assets/Hipnos/Resources/DetailMaps/embroidery_surface.png",
+    "size": 26316,
+    "sha256": "21daa1d63adde6eacfc50d28473e80c8ffad3cd3ab5696bb8c50203c88ca60ed"
+  },
+  {
+    "path": "Assets/Hipnos/Resources/DetailMaps/polymer_normal.png",
+    "size": 39990,
+    "sha256": "7a05e9e1d78b9ecbb0d9880d1a84839ebb1f2865c69d156e1de7eb14fe8e6ef1"
+  },
+  {
+    "path": "Assets/Hipnos/Resources/DetailMaps/polymer_surface.png",
+    "size": 77086,
+    "sha256": "b06a4cdb3a2c89c428b21ed17e44af222a6c51a732c440ee21e6bddceeede7c5"
+  },
+  {
+    "path": "Assets/Hipnos/Resources/DetailMaps/polymer_normal.png.meta",
+    "size": 60,
+    "sha256": "61ad5bec8ed6ebc55aeaa6bef4a8dc49294951367ed43ebb6a5337749314d25c"
+  },
+  {
+    "path": "Assets/Hipnos/Resources/DetailMaps/linen_surface.png.meta",
+    "size": 60,
+    "sha256": "351237af42230344857e216ba49d5f22417fb78b545d6fa1605f41df14967fb0"
+  },
+  {
+    "path": "Assets/Hipnos/Resources/DetailMaps/pillow_tension_normal.png",
+    "size": 179883,
+    "sha256": "bb56c60844833d01d17f8fd7497361aa1881b411d5fca77c82a9a985aefe33e3"
+  },
+  {
+    "path": "Assets/Hipnos/Resources/DetailMaps/wadding_surface.png",
+    "size": 853033,
+    "sha256": "894bdca568a6188829b95d2d3fbb572d004f7244165e4d2c9e479f475e09b423"
+  },
+  {
+    "path": "Assets/Hipnos/Resources/DetailMaps/cotton_surface.png.meta",
+    "size": 60,
+    "sha256": "457fb04c01757ecf2be408c40bc10650c821443e048aeb7280bd492aa3e57e8d"
+  },
+  {
+    "path": "Assets/Hipnos/Resources/DetailMaps/backing_normal.png",
+    "size": 777030,
+    "sha256": "f903bf18914911a89c19ff2401a3da75f66e20ba636c0a74ea580876d9992649"
+  },
+  {
+    "path": "Assets/Hipnos/Resources/DetailMaps/hub_surface.png.meta",
+    "size": 60,
+    "sha256": "ae358a5553354296a3d033db9277d5073ed094469444c2b5984469a51a0e1217"
+  },
+  {
+    "path": "Assets/Hipnos/Resources/DetailMaps/cover_normal.png.meta",
+    "size": 60,
+    "sha256": "a1f0e40b2f4684d40a42433df1673053874d6ac7aad2c92a176df9f544aba417"
+  },
+  {
+    "path": "Assets/Hipnos/Resources/DetailMaps/hub_surface.png",
+    "size": 265578,
+    "sha256": "099165e1e9fdbea70a7466109bc2ba8c8b09d2a78c49504907a0067f2e0b1b21"
+  },
+  {
+    "path": "Assets/Hipnos/Resources/DetailMaps/hub_normal.png",
+    "size": 190607,
+    "sha256": "75a0956d8b110a441be03cb304d478fb985396e43ae866ebf0e92547d2423b81"
+  },
+  {
+    "path": "Assets/Hipnos/Resources/DetailMaps/metal_normal.png",
+    "size": 31098,
+    "sha256": "972d8319b39172c04fa696b9c08ea3c1af3a89e90a8fd754e601e17b61de8e7e"
+  },
+  {
+    "path": "Assets/Hipnos/Tests/Editor/CalibrationTests.cs.meta",
+    "size": 187,
+    "sha256": "7972883411edfd5085313b781908c2ca43c625199c538833b8ad10fe6608392a"
+  },
+  {
+    "path": "Assets/Hipnos/Tests/Editor/Hipnos.AR.Tests.asmdef.meta",
+    "size": 60,
+    "sha256": "9878944d57bc33ec43db13829b759573e80e24e85a172c0418957ebdaaf471b9"
+  },
+  {
+    "path": "Assets/Hipnos/Tests/Editor/Hipnos.AR.Tests.asmdef",
+    "size": 205,
+    "sha256": "7f6022cf74b13a94709fee88e7bc12f27f69b5e9d58141c8865733d7a58f92eb"
+  },
+  {
+    "path": "Assets/Hipnos/Tests/Editor/CalibrationTests.cs",
+    "size": 1906,
+    "sha256": "7874a43b67866b9b2068160fc1f9ad2de739fb80305405bc17ac6f6a8c7d6a67"
+  },
+  {
+    "path": "Assets/StreamingAssets/Hipnos/catalog.json.meta",
+    "size": 60,
+    "sha256": "b42a5e694a3c92b2504ced833f759b7598fa92ee4c5c7533dde222f1aec82570"
+  },
+  {
+    "path": "Assets/StreamingAssets/Hipnos/catalog.json",
+    "size": 1468,
+    "sha256": "549e288d2e94507bcc69fc6367063cd43e7806639977ec4d30c6ddf7d9ad1d8a"
+  },
+  {
+    "path": "Assets/StreamingAssets/Hipnos/Models/Hub_Source.glb.meta",
+    "size": 60,
+    "sha256": "8fe06a0407a013cafd769505f50ccf916d46e95ef67aa1a430ad3b1d032456f7"
+  },
+  {
+    "path": "Assets/StreamingAssets/Hipnos/Models/Cover_Source.glb",
+    "size": 28793492,
+    "sha256": "71886be5f774e6cbd0a6a25ac7d172871a81e2b8f79987d74f60773a23d60940"
+  },
+  {
+    "path": "Assets/StreamingAssets/Hipnos/Models/Cover_Source.glb.meta",
+    "size": 60,
+    "sha256": "f5a3a6b2d8f3156d2ecd734cbb26b3aa4c2a873799a1bfb2fc8d80934061c6b5"
+  },
+  {
+    "path": "Assets/StreamingAssets/Hipnos/Models/Cover_Source.materials.json",
+    "size": 6094,
+    "sha256": "60078b5a4ed47a534c864fb7e4773f684bec3560d97e00a3b6a9b33ed4434742"
+  },
+  {
+    "path": "Assets/StreamingAssets/Hipnos/Models/Cover_Source.materials.json.meta",
+    "size": 60,
+    "sha256": "b77a84f73105592be89ee71b9bf7a054bbc4ad5bddee36366257bb086dc35e5a"
+  },
+  {
+    "path": "Assets/StreamingAssets/Hipnos/Models/Hub_Source.materials.json",
+    "size": 39126,
+    "sha256": "331f6c8a73f228bde0eb683f115006078e807b531e36cad7f524a94fbe0929d6"
+  },
+  {
+    "path": "Assets/StreamingAssets/Hipnos/Models/Hub_Source.materials.json.meta",
+    "size": 60,
+    "sha256": "d35756db2de46602e728fa50f83043e7d02192051ffa74b3570a47f609b2a9fe"
+  },
+  {
+    "path": "Assets/StreamingAssets/Hipnos/Models/Hub_Source.glb",
+    "size": 18352660,
+    "sha256": "af70c662dbf65e2b5853dfc4e7c1dc532ba2637a03c9cb097a93cd4ed536836c"
+  }
+]
